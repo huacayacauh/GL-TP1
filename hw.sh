@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "Hello Our Damn World"
+echo "Hello Our World"
 
